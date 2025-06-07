@@ -55,7 +55,7 @@ function Home() {
           <h1>Welcome to DhanaLakshmi Investments</h1>
           <p>Your trusted service partner</p>
           <a
-            href="https://wa.me/7905068217?text=Hi%20there!%20I%20saw%20your%20website%20kindly%20contact%20me."
+            href="https://wa.me/+917905068217?text=Hi%20there!%20I%20saw%20your%20website%20kindly%20contact%20me."
             className="hero-whatsapp-btn"
             target="_blank"
             rel="noreferrer"
